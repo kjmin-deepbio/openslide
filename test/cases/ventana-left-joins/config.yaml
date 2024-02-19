@@ -1,0 +1,9 @@
+base: Ventana/Ventana-1.bif
+slide: Ventana-1.bif
+success: true
+vendor: ventana
+primary: true
+properties:
+  openslide.vendor: ventana
+lukenovak marked this conversation as resolved.
+  ventana.ScanWhitePoint: "235"
